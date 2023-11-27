@@ -3,7 +3,7 @@ This repository contains my personal projects.
 
 # Project 1 - systems_models_analysis.ipynb
 # -----------------------------------------
-####**THIS IS AN UNFINISHED PROJECT**
+#### **THIS IS AN UNFINISHED PROJECT**
 Still in the works, so it is only documented with my own notes as I work to finish it.
 
 #### ABOUT: Project 1
