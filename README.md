@@ -6,7 +6,7 @@ This repository contains my personal projects.
 Still in the works, so it is only documented with my own notes as I work to finish it.
 
 #### ABOUT: Project 1
-#This is an Object-Oriented Program, and is made to model various types of astrological systems. Along with classes I created to facilitate the modeling this type of orbital motion, it includes integration methods as to model the motion itself.
+This is an Object-Oriented Program, and is made to model various types of astrological systems. Along with classes I created to facilitate the modeling this type of orbital motion, it includes integration methods as to model the motion itself.
 
 ## Project 2 - PHY415_project5.ipynb
 This is a completed and fully documented project I made for PHY 415 at Michigan State University.
