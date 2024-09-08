@@ -33,9 +33,7 @@ This is another completed and fully documented project I made for PHY 415 at Mic
 This project is another where I use FFTs. I focus a bit on acoustics here and try my hand at adding distortion to a sound via adding even/odd harmonics through the FFT manually. This also could have been generalized in a function but I chose not to do that since that was not the focus of this project ad I was only working with one sound.
 
 ## PROSPECTIVE PROJECTS:
-- Project 6: I hope to further explore acoustics through processing signals in a programmed circuit. I love to use pedals in my musical endevours with the electric guitar and am building some for a school project, so it would be nice to be able to code this as well.
-
-- Project 7: I would like to work on something with clean energy. maybe a data analysis project.
+- IBM_ML_CERT: I am working on an IBM Machine Learning Professional Certificate. Started August 2024.
 
 
 
